@@ -1,4 +1,4 @@
 # ISID-demo
-This is my first Git repository (folder).
+This is my first Git Repository (folder).
 <br>
 Author- Pawan Kumar
